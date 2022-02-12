@@ -715,31 +715,26 @@ body {
 }
 .form-name::-webkit-input-placeholder {
   font-size: 14px;
-  line-height: 24px;
   font-weight: 400;
   color: #000000;
 }
 .form-name::-moz-placeholder {
   font-size: 14px;
-  line-height: 24px;
   font-weight: 400;
   color: #000000;
 }
 .form-name:-ms-input-placeholder {
   font-size: 14px;
-  line-height: 24px;
   font-weight: 400;
   color: #000000;
 }
 .form-name::-ms-input-placeholder {
   font-size: 14px;
-  line-height: 24px;
   font-weight: 400;
   color: #000000;
 }
 .form-name::placeholder {
   font-size: 14px;
-  line-height: 24px;
   font-weight: 400;
   color: #000000;
 }
